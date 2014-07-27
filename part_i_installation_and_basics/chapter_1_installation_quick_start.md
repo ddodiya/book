@@ -15,23 +15,23 @@ Use these instructions if there is no existing Linux system on your machine, or 
 
 1. Insert the openSUSE DVD into the drive, then reboot the computer to start the installation program.![sreen](../images/1.jpg)
 2. Select * Installation * on the boot screen and press `Enter`. This loads the openSUSE installation program and starts the installation in normal mode.
-![](./images/1.2.png)
+![](../images/1.2.png)
 
 3. Select the language and the keyboard layout to be used during the installation and for the installed system.
 
-    Read the License Agreement and proceed with *Next* if you agree. If you do not agree, press *Abort* to terminate the installation [![sceen](./images/1.3.png)](./images/1.3.png)
+    Read the License Agreement and proceed with *Next* if you agree. If you do not agree, press *Abort* to terminate the installation ![sceen](../images/1.3.png)
 
 4. Select *New Installation* and proceed with *Next*.
-[![sceen](./images/1.4.png)](./images/1.4.png)
+![sceen](../images/1.4.png)
 
 5. Either use the map or the drop down lists for *Region* and *Time Zone* to select the clock and time zone to use in your system. Proceed with *Next*.
-[![sceen](./images/1.5.png)](./images/1.5.png)
+![sceen](../images/1.5.png)
 
 6. Select the desktop system you would like to use. *KDE* and *GNOME*, are powerful graphical desktop environments, with KDE being a bit similar to Windows, alternative selections are available when checking Other. Proceed with *Next*.
-[![sceen](./images/1.6.png)](./images/1.6.png)
+![sceen](../images/1.6.png)
 
 7. Define a partition setup for openSUSE in this step. In most cases a reasonable scheme that can be accepted without change is proposed. Accept the proposal with *Next* and proceed with the installation. Experienced users can also customize the proposal (* Edit Partition Setup *) or apply their own partitioning scheme (* Create Partition Setup *).
-[![sceen](./images/1.7.png)](./images/1.7.png)
+![sceen](../images/1.7.png)
 
 8.  Type your first and last name in the User’s Full Name field, your login name in the Username field, and your password in the Password field.
 
