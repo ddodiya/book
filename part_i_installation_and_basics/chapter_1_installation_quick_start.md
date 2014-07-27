@@ -13,9 +13,9 @@ For more detailed installation instructions and deployment strategies, see the o
 ###Installing openSUSE
 Use these instructions if there is no existing Linux system on your machine, or if you want to replace an existing Linux system.
 
-1. Insert the openSUSE DVD into the drive, then reboot the computer to start the installation program.[![sceen](./images/1.1.png)](./images/1.1.png)
+1. Insert the openSUSE DVD into the drive, then reboot the computer to start the installation program.![](./images/1.jpg)
 2. Select * Installation * on the boot screen and press `Enter`. This loads the openSUSE installation program and starts the installation in normal mode.
-[![sceen](./images/1.2.png)](./images/1.2.png)
+![](./images/1.2.png)
 
 3. Select the language and the keyboard layout to be used during the installation and for the installed system.
 
