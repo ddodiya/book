@@ -320,8 +320,7 @@ Using Math, you can enter your equation in three different ways:
 or
 * Select a symbol from the *Selection toolbox*.
 
-        **Note:**
-        Math is not a calculator. The functions it creates are graphical objects. Even if they are imported into Calc, these functions cannot be evaluated.
+        Note: Math is not a calculator. The functions it creates are graphical objects. Even if they are imported into Calc, these functions cannot be evaluated.
 
 ###7 For More Information
 
