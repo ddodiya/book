@@ -42,4 +42,26 @@ Use these instructions if there is no existing Linux system on your machine, or 
     With automatic login enabled, the system boots straight to your desktop with no authentication at all. If you store sensitive data on your system, you should not enable this option as long as the computer can also be accessed by others.
 
     Proceed with *Next*.
-[![sceen](./images/1.8.png)](./images/1.8.png)
+![sceen](../images/1.8.png)
+
+9.	Type a password for the system administrator account (called the `root` user). This step is skipped in case you had activated *Use this Password for System Administrator* in the previous step.
+
+    You should never forget the `root` password. After you enter it here, the password cannot be retrieved. It can only be reset with administrative assistance. Proceed with *Next*.
+![sceen](../images/1.9.png)
+
+10.  Use the Installation Settings screen to review your choices as well as some automatically proposed settings. If necessary, change the settings.
+
+    Click *Install* to proceed. Depending on your software selection you may have to accept additional license agreements by clicking Accept. Before the actual installation starts you will see the following screen:
+![sceen](../images/1.10.png)
+
+11.	Click *Install* to start the installation.
+![sceen](../images/1.11.png)
+
+12.	The installation usually takes between 15 and 30 minutes, depending on the system performance and the selected software scope. During the installation you may either view the product presentation, the release notes containing last-minute information, or the detailed installation log.
+![sceen](../images/1.12.png)
+
+13.	After completing the installation of all selected software packages and the basic system setup, the openSUSE installation boots into the new Linux system, to perform the automatic system configuration. This routine configures your network and Internet access and sets up your hardware. This process does not need any interaction.
+![sceen](../images/1.13.png)
+
+14.	If you have chosen the automatic login function, the desktop directly starts. Otherwise you will see the login screen. Select your *username*, and type your password in the *Password* field. Press `Enter` to log in.
+

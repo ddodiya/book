@@ -349,8 +349,8 @@ When you input a password in a KDE application for the first time (for example i
 
 To activate the KWallet, select Basic set-up, and click on Advanced. Select Yes, I want to use the KDE digital wallet for my personal information. Then assign a master password to the standard wallet (kdewallet), which is created in the next step.
 
-    **Warning: *Protect your password for KWallet***
-    If you forget your master password for a wallet, this password can't be recreated. Also, everyone who knows your password can look inside your wallet.
+>**Warning: Protect your password for KWallet :**
+If you forget your master password for a wallet, this password can't be recreated. Also, everyone who knows your password can look inside your wallet.
 
 Click on *Finish* to close the assistant. If you originally started the KWallet assistant via a different application such as Konqueror or KMail, you are requested in KWallet to re-enter the password so that the password can be saved in the newly created wallet for this application. After the first configuration you can open KWallet at any time to display, search for, delete or create entries. Entering passwords manually is not usually necessary. KDE recognizes when a resource needs to be authenticated and KWallet starts automatically and asks you to enter your KWallet password. However, you can also add additional data if you wish. To configure the KWallet options, press `Alt`–`F2` and enter kwalletmanager. The *Service program for digital wallets* is opened. If the window does not appear, take a look at the system section of the control bar (on the left adjacent to the clock). If necessary, expand all hidden applications via the small triangle. Then click on the *Service program* for digital wallets or on the relevant icon. The window of the application should then open. Select Settings  › Set up digital wallet.
 
