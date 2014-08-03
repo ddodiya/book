@@ -1,10 +1,21 @@
-## openSUSE: Start-Up
+# About This Guide
 
+This manual will see you through your initial contact with openSUSE®. Check out the various parts of this manual to learn how to install, use and enjoy your system.
 
-Copyright © 2006–2013 SUSE LLC and contributors. All rights reserved.
+## Installation and Basics
 
-Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or (at your option) version 1.3; with the Invariant Section being this copyright notice and license. A copy of the license version 1.2 is included in the section entitled “ GNU Free Documentation License ” .
+Guides you through the installation process and the basic configuration of your system. Introduces YaST, the central tool for installation and configuration of your system. Learn how to set up or modify key components of your system and how to connect to the internet.
 
-For SUSE or Novell trademarks, see the Novell Trademark and Service Mark list ```http://www.novell.com/company/legal/trademarks/tmlist.html```. All other third party trademarks are the property of their respective owners. A trademark symbol (®, ™ etc.) denotes a SUSE or Novell trademark; an asterisk (*) denotes a third party trademark.
+## Basics
 
-All information found in this book has been compiled with utmost attention to detail. However, this does not guarantee complete accuracy. Neither SUSE LLC, its affiliates, the authors nor the translators shall be held liable for possible errors or the consequences thereof.
+This part mainly addresses to users changing to Linux from other operating systems. It introduces basic Linux concepts such as the user concept, the structure of the file system and access permissions for files and directories. An introduction to the shell is also provided, although you hardly ever need the command line to interact with your system nowadays.
+
+## Help and Troubleshooting
+
+Provides an overview of where to find help and additional documentation in case you need more information or want to perform specific tasks with your system. Also find a compilation of the most frequent problems and annoyances and learn how to solve these problems on your own.
+
+Many chapters in this manual contain links to additional documentation resources. This includes documentation that is available on the system as well as documentation available on the Internet.
+
+For an overview of the documentation available for your product and the latest documentation updates, refer to ```http://doc.opensuse.org/```
+ or to the following section.
+
