@@ -1,1 +1,0 @@
-## YaST in Text Mode
